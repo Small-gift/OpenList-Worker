@@ -122,7 +122,7 @@
   //
   // ▶ 方案 B：D1（关系型，可与 Go 后端共享库）
   // "d1_databases": [
-  //   { "binding": "DB", "database_name": "openlist", "database_id": "" }
+  //   { "binding": "DB", "database_name": "openlist", "database_id": "7691e469-439b-4d5e-8c04-354c1a76db11" }
   // ],
   //
   // ▶ 方案 C：Durable Objects（内置 SQLite，强一致）
